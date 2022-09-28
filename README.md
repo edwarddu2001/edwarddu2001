@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my personal website: https://edwarddu2001.github.io/
+
 <!--
 **edwarddu2001/edwarddu2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
